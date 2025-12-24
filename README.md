@@ -38,11 +38,18 @@ pip install -r requirements.txt
 
 ## 🚀 실행 방법
 
+### 로컬 실행
 ```bash
 streamlit run app.py
 ```
 
 브라우저가 자동으로 열리며 대시보드가 표시됩니다. (기본 주소: http://localhost:8501)
+
+### 온라인 데모
+GitHub Pages에서 호스팅되는 라이브 데모를 확인하세요:
+- 🌐 **데모 URL**: https://nohyujin.github.io/hrd-skill-gap-analysis/
+
+> **Note**: GitHub Pages 버전은 Stlite (WebAssembly)를 사용하여 브라우저에서 직접 실행됩니다.
 
 ## 📋 데이터 형식
 
